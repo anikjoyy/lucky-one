@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Juniper Bonsai",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Juniper-Bonsai.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 2000000,
+    "ratings": 5,
+    "ratingsCount": 4725
+  },
+  {
+    "id": 2,
+    "name": "Old Pine",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Old-Pine.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 1300000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 3,
+    "name": "Shimpaku Juniper",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Shimpaku-Juniper.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 91000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 4,
+    "name": "Ficus Bonsai Tree",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Ficus-Bonsai-Tree.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 89000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 5,
+    "name": "ShunkaEn Bonsai",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/ShunkaEn-Bonsai.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 80000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 6,
+    "name": "Sandai Shogun no Matsu",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Sandai-Shogun-no-Matsu.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 78000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 7,
+    "name": "Yamaki Pine",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Yamaki-Pine.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 70000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 8,
+    "name": "The Shohin Bonsai",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/The-Shohin-Bonsai.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 68000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 9,
+    "name": "Slivestris Pine Bonsai",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Silvestris-Pine-Bonsai.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 60000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 10,
+    "name": "Flowering-Bonsai",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Flowering-Bonsai.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 56000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  },
+  {
+    "id": 11,
+    "name": "Kimura Bonsai",
+    "img": "https://mostexpensivehub.com/wp-content/uploads/2020/12/Kimura-Bonsai.jpg?ezimgfmt=ng:webp/ngcb8",
+    "price": 51000,
+    "ratings": 4,
+    "ratingsCount": 3725
+  }
+]
