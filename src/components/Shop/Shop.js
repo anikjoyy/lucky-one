@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Tree from '../Tree/Tree';
 import './Shop.css';
 
 const Shop = () => {
@@ -10,8 +11,10 @@ const Shop = () => {
   }, []);
   return (
     <div className='shop-container'>
-      <div className='products-container'>
-        <h3>This is Tree: {trees.length}</h3>
+      <div className='tree-products-container'>
+        {trees.map((tree) => (
+          <Tree key={tree.id} tree={tree}></Tree>
+        ))}
       </div>
       <div className='cart-container'>
         <h3>This is cart</h3>

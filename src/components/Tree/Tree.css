@@ -1,0 +1,33 @@
+.tree-product {
+  width: 300px;
+  height: 510px;
+  border: 2px solid blue;
+  background-color: lightblue;
+  position: relative;
+}
+.tree-product img {
+  width: 270px;
+  height: 300px;
+  border-radius: 10px;
+  margin: 7px;
+}
+
+.btn-cart {
+  width: 100%;
+  background: blue;
+  color: white;
+  border: none;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-cart p {
+  margin-right: 5px;
+  font-weight: bold;
+}
+.btn-cart:hover {
+  background-color: lightgreen;
+  color: blue;
+}
