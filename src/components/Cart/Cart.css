@@ -20,3 +20,40 @@
   background: none;
   font-size: 30px;
 }
+
+.choose-btn {
+  width: 70%;
+  background: blue;
+  color: white;
+  margin-bottom: 10px;
+}
+.choose-btn:hover {
+  background-color: red;
+  color: black;
+}
+.choose-btn1 {
+  width: 70%;
+  background: green;
+  color: white;
+}
+.choose-btn1:hover {
+  background-color: red;
+  color: black;
+}
+
+.choose-btn-text {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 480px) {
+  .cart-info {
+    grid-template-columns: repeat(1, 1fr);
+    margin-right: 10px;
+  }
+  .choose-btn {
+    width: 100%;
+  }
+  .choose-btn1 {
+    width: 100%;
+  }
+}

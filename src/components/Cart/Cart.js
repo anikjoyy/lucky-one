@@ -17,6 +17,14 @@ const Cart = (props) => {
           </button>
         </div>
       ))}
+
+      <button className='choose-btn'>
+        <p className='choose-btn-text'>Choose One Tree</p>
+      </button>
+
+      <button className='choose-btn1'>
+        <p className='choose-btn-text'>Choose Again</p>
+      </button>
     </div>
   );
 };
