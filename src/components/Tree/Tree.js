@@ -3,8 +3,8 @@ import './Tree.css';
 import { FaCartPlus } from 'react-icons/fa';
 
 const Tree = (props) => {
-  //   console.log(props.tree);
-  const { img, name, price, ratings } = props.tree;
+  const { tree, handleAddToCart } = props;
+  const { img, name, price, ratings } = tree;
   return (
     <div className='tree-product'>
       <img src={img} alt='' />
@@ -13,7 +13,7 @@ const Tree = (props) => {
         <p>Price: ${price}</p>
         <p>Ratings: {ratings} stars</p>
       </div>
-      <button className='btn-cart'>
+      <button onClick={() => handleAddToCart(tree)} className='btn-cart'>
         <p>Add to Cart</p>
         <FaCartPlus></FaCartPlus>
       </button>
