@@ -22,13 +22,12 @@ const Shop = () => {
     if (newCart.length <= 4) {
       setCart(newCart);
     } else {
-      // alert('cant');
       notify();
     }
   };
 
   const notify = () => {
-    toast.error('Oops! You cant add more than 4', {
+    toast.error('Oops! You cant add more than 4 items', {
       position: toast.POSITION.TOP_CENTER,
     });
   };
